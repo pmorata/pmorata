@@ -1,4 +1,11 @@
-## Hi there 👋
+## You have landed on a personal experimentation repository
+
+Im currently experimenting with some languages and tecnologies I have always had on the back of my mind and now I feel its the proper time to deep into them.
+
+### What you will find
+
+Projects with all kind of completeness percentage, just placeholders, prototypes, unfinished ones when I run out of interest in the reason behind the project etc.
+
 
 <!--
 **pmorata/pmorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
